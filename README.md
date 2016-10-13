@@ -1,0 +1,2 @@
+# SparkScalaProject
+SAMPLE SCALA PROJECT
